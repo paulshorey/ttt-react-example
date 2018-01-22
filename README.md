@@ -16,3 +16,6 @@ Then ```npm start```
 # Why?
 This repository represents your regular React app or website. You don't want to put very independent mini-apps into one giant codebase. So, I've separated out the game into its own package. This app only serves to set the container ```div``` size, for the game to fit into.
 
+That ```ttt-react``` is actually ```@pshorey/ttt-react```, because I was experimenting with private repositories. But then I made it public again. It still kept the name.
+(https://github.com/paulshorey/ttt-react)
+(https://www.npmjs.com/package/@pshorey/ttt-react)
