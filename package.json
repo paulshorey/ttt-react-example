@@ -1,9 +1,9 @@
 {
   "name": "ws-react",
-  "version": "0.1.1",
+  "version": "1.0.9",
   "private": true,
   "dependencies": {
-    "@pshorey/ttt-react": "^1.0.6",
+    "@pshorey/ttt-react": "^1.0.9",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "1.1.0"
